@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[]}
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Eagle Mountain House", "note": "Hotel · 179 Carter Notch Rd, Jackson, NH", "link": "https://eaglemt.com/"}, "geometry": {"type": "Point", "coordinates": [-71.185313, 44.15671]}}]}
